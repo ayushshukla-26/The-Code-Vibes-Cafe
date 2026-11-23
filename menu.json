@@ -1,0 +1,98 @@
+{
+    "TEA": [
+        {
+            "name": "Masala Chai",
+            "price": 15
+        },
+        {
+            "name": "Kulhad Chai",
+            "price": 25
+        }
+    ],
+    "COFFEE": [
+        {
+            "name": "Hot Coffee",
+            "price": 40
+        },
+        {
+            "name": "Black Coffee",
+            "price": 50
+        },
+        {
+            "name": "Cold Coffee",
+            "price": 70
+        }
+    ],
+    "SANDWICH": [
+        {
+            "name": "Veg Sandwich",
+            "price": 50
+        },
+        {
+            "name": "Paneer Sandwich",
+            "price": 70
+        },
+        {
+            "name": "Paneer Cheese Sandwich",
+            "price": 90
+        },
+        {
+            "name": "Chicken Sandwich",
+            "price": 70
+        }
+    ],
+    "BURGER": [
+        {
+            "name": "Veg Burger",
+            "price": 30
+        },
+        {
+            "name": "Chicken Burger",
+            "price": 50
+        },
+        {
+            "name": "Extra Cheese Chicken Burger",
+            "price": 70
+        }
+    ],
+    "PIZZA": [
+        {
+            "name": "Margerita Pizza",
+            "price": 100
+        },
+        {
+            "name": "Paneer Pizza",
+            "price": 150
+        },
+        {
+            "name": "Sweet Corn Pizza",
+            "price": 120
+        },
+        {
+            "name": "Chicken Pizza",
+            "price": 170
+        }
+    ],
+    "DESSERT": [
+        {
+            "name": "Ice Cream (1 Scoop)",
+            "price": 50
+        },
+        {
+            "name": "Brownie",
+            "price": 100
+        },
+        {
+            "name": "Waffle",
+            "price": 100
+        },
+        {
+            "name": "Rasmalai",
+            "price": 80
+        },
+        {
+            "name": "Choco Chip Cookies (2 pcs)",
+            "price": 100
+        }
+    ]
+}
